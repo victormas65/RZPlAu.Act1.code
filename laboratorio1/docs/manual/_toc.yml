@@ -1,0 +1,28 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+# format: jb-book
+# root: index
+# parts:
+#   - caption: Name of Part 1
+#     chapters:
+#     - file: path/to/part1/chapter1
+#     - file: path/to/part1/chapter2
+#       sections:
+#       - file: path/to/part1/chapter2/section1
+#   - caption: Name of Part 2
+#     chapters:
+#     - file: path/to/part2/chapter1
+#     - file: path/to/part2/chapter2
+#       sections:
+#       - file: path/to/part2/chapter2/section1
+
+
+format: jb-book
+root: /docs/manual/intro
+chapters:
+- file: /docs/manual/01.00AnalisisCodigo.md
+- file: /docs/manual/01.01DescripcionGeneral.md
+- file: /docs/manual/01.02Casos.md
+- file: /docs/manual/01.03AnalisisCodigo.md
+

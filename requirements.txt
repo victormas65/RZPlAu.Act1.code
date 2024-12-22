@@ -1,0 +1,7 @@
+jupyter-book
+matplotlib
+numpy
+simpleai
+flask
+pydot
+# graphviz     # V+241222: Se instala con "brew install graphviz" o "EXE" (para Windows)
